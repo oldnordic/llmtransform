@@ -1,0 +1,12 @@
+{
+  "execution_id": "test-execution-003",
+  "file_path": "tests/fixtures/sample.rs",
+  "expected_checksum": "0000000000000000000000000000000000000000000000000000000000000000",
+  "edits": [
+    {
+      "byte_start": 46,
+      "byte_end": 51,
+      "replacement": "Hi"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Planning directories (not for public repo)
+.planning/
+.claude/
+
+# Documentation (keep local only)
+/docs/
+
+# Database
+syncore_code_graph.db
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
